@@ -1,6 +1,10 @@
 
 # Smartphone Usage & Addiction Analysis Dashboard
 
+## Dataset Source
+Kaggle
+[Dataset used for educational and analytical purposes.](https://www.kaggle.com/datasets/zahranusratt/smartphone-usage-and-addiction-analysis-dataset)
+
 ## Project Overview
 
 This project focuses on analyzing smartphone usage behavior and addiction patterns using demographic, behavioral, and mental health-related data. The analysis was performed using Microsoft Excel for preprocessing and Microsoft Power BI for dashboard development and business intelligence reporting.
